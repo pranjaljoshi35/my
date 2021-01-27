@@ -1,0 +1,2 @@
+There are many types of animals DOG, CAT, ELEphant etc.
+print("Types of animals are");
